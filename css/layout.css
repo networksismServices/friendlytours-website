@@ -1,0 +1,18 @@
+.container {
+    margin-left:auto;
+    margin-right:auto;
+    width:940px;
+    position:relative;
+}
+.col1,.col2,.col3,.col4,.col5,.col6 {
+    float:left;
+}
+.col1 {
+    width:460px;
+}
+.col2 {
+    width:296px;
+}
+.col3 {
+    width:310px;
+}
