@@ -1,6 +1,6 @@
 <?php
     // Set your recipient email here
-    $owner_email = "irfaanahamed0105@gmail.com"; // Replace with the actual recipient email address
+    $owner_email = "Friendlytourpackages@gmail.com"; // Replace with the actual recipient email address
     $headers = 'From: ' . htmlspecialchars($_POST["email"]);
     $subject = 'A message from your site visitor ' . htmlspecialchars($_POST["name"]);
     $messageBody = "";
